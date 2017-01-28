@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HipChat</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_box_hint">Type a message</string>
+    <string name="button_text">Parse</string>
+    <string name="error_cannot_get_title">Cannot get page title. Page cannot be loaded</string>
+ 	<string name="error_no_message">Message text is empty</string>
+</resources>
