@@ -30,7 +30,6 @@ public class MainActivity extends Activity implements ITitleTask{
 	private HashMap<String, String> urlsTitlesMap;
 	private TextView textMessageView;
 	private ProgressBar spinner;
-	private Context context;
 	private MessageContent chatContent;
 
 	@Override
